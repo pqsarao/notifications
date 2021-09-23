@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735658917533",
+    "project_id": "notifications-2293d",
+    "storage_bucket": "notifications-2293d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735658917533:android:d333553e760e0106fe5e74",
+        "android_client_info": {
+          "package_name": "com.bootcamp.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735658917533-3v3khkhfens4msmn2gohp59a3jtd10sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHu9xRBgb55ujU29UDmoMpctU_mG3t6zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735658917533-3v3khkhfens4msmn2gohp59a3jtd10sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
