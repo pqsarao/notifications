@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         btnSend = findViewById(R.id.button_send_notification)
         btnSend.setOnClickListener {
+            this.showNotification("1234", "Bootcamp Android", "Kotlin Android")
 
         }
 
