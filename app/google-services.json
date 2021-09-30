@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:735658917533:android:d333553e760e0106fe5e74",
         "android_client_info": {
-          "package_name": "com.bootcamp.notification"
+          "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [

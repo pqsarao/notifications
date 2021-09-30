@@ -1,8 +1,9 @@
 package com.example.myapplication
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.iid.FirebaseInstanceId
 
 class MainActivity : AppCompatActivity() {
 
@@ -16,6 +17,9 @@ class MainActivity : AppCompatActivity() {
             this.showNotification("1234", "Bootcamp Android", "Kotlin Android")
 
         }
+
+        println("token do firebaseee" + FirebaseInstanceId.getInstance().token.toString())
+
 
     }
 }
